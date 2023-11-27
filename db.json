@@ -1,0 +1,45 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "date": "12:33 27.01.2023",
+        "text": "Hello guys",
+        "authorId": 1
+      },
+      {
+        "id": 2,
+        "date": "12:45 27.01.2023",
+        "text": "Hello, Kevin",
+        "authorId": 2
+      },
+      {
+        "id": 3,
+        "date": "12:45 27.01.2023",
+        "text": "Hi. How is it going today?",
+        "authorId": 3
+      },
+      {
+        "id": 4,
+        "date": "12:45 27.01.2023",
+        "text": "It's coffee time!",
+        "authorId": 3
+      }
+    ],
+    "users": [
+      {
+        "id": 1,
+        "name": "Kevin Lenox",
+        "avatar": "https://xsgames.co/randomusers/assets/avatars/male/69.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Sasha Grimes",
+        "avatar": "https://xsgames.co/randomusers/assets/avatars/female/12.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Ave Tariyaki",
+        "avatar": "https://xsgames.co/randomusers/assets/avatars/male/70.jpg"
+      }
+    ]
+  }
